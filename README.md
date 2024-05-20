@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🙋 Olá, me chamo Sandro
 
-
-**sanjsp21/sanjsp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-🙋 Olá, me chamo Sandro !
 💻  Atualmente trabalho como técnico de suporte N2.
-📚  Estudando faculdade em Análise e Desenvolvimento de Sistemas, já estou no ultimo semestre.
-📚 Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
+📚  Estudando Análise e Desenvolvimento de Sistemas, já estou no ultimo semestre.
+
+📚 Estou aprendendo
+
+<img loading="lazy" height="30em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img loading="lazy" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+          
 📪 Contatos:
 <div>
 <a href = "mailto:sandrojsp21@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
