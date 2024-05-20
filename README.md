@@ -8,7 +8,7 @@
 
 <img loading="lazy" height="30em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img loading="lazy" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
           
-![Snake animation](https://github.com/sanjsp21/sanjsp21/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/sanjsp21/sanjsp21/blob/output/github-contribution-grid-snake.svg)
 
 📪 Contatos:
 <div>
