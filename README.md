@@ -8,8 +8,6 @@
 
 <img loading="lazy" height="30em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img loading="lazy" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
           
-[Snake animation](https://github.com/sanjsp21/sanjsp21/blob/output/github-contribution-grid-snake.svg)
-
 📪 Contatos:
 <div>
 <a href = "mailto:sandrojsp21@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
