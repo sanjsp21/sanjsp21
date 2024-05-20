@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sanjsp21/sanjsp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -25,4 +25,3 @@ Estatísticas GitHub
 <div>
 
 
--->
